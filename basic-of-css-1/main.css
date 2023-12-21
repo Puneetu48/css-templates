@@ -9,10 +9,11 @@ body {
 .section-title {
     color: #2ddf5c;
     /* updating the h1 tag from the parent class tag */
-    font-family: inherit;
+    /* font-family: inherit; */
 }
 
-h1 {
+/* combinator */
+#product-overview h1 {
     color: white;
     font-family: 'Anton', sans-serif;
 }
