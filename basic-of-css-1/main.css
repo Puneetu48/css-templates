@@ -8,6 +8,8 @@ body {
 
 .section-title {
     color: #2ddf5c;
+    /* updating the h1 tag from the parent class tag */
+    font-family: inherit;
 }
 
 h1 {
